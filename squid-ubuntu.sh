@@ -1,4 +1,3 @@
-#!/bin/bash
 PROXY_PORT=3000
 sudo apt-get update
 sudo apt-get install squid3 apache2-utils -y
